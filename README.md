@@ -2,19 +2,6 @@
 
 <div class=WordSection1>
 
-<p class=MsoTitle><b><span style='font-size:22.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#1F2328;letter-spacing:0pt;
-mso-font-kerning:0pt;mso-fareast-language:RU;mso-bidi-font-style:italic'>Дипломная
-работа<o:p></o:p></span></b></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#1F2328;mso-fareast-language:RU;mso-bidi-font-style:
-italic'>Сравнение различных библиотек для визуализации данных: Matplotlib,
-Seaborn и Plotly: Создать набор визуализаций с использованием Matplotlib,
-Seaborn и Plotly, сравнить их функциональность и удобство использования.<o:p></o:p></span></b></p>
-
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><b><span
 style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
@@ -287,9 +274,12 @@ mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-ansi-language:EN-US;
 mso-fareast-language:RU;mso-bidi-font-weight:bold'><o:p></o:p></span></i></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white'><b><u><span
+line-height:normal;mso-outline-level:3;background:white'><a
+href="https://urban-university.ru/members/courses/course999421818026/null"><b><span
 style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:RU'>Логика работы:<o:p></o:p></span></u></b></p>
+"Times New Roman";color:windowtext;mso-fareast-language:RU'>Логика работы:</span></b></a><b><span
+style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
